@@ -5,7 +5,7 @@ this is my personal template for building simple HTML, JS, TailwindCSS Website
 before using the template make sure to start:
 
 ## to install all dependencies to your template
---codebase
+
 npm install
 
 ## in order to start building or run tailwind type
