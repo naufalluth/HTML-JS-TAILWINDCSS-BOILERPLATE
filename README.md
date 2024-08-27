@@ -4,14 +4,14 @@ this is my personal template for building simple HTML, JS, TailwindCSS Website
 
 before using the template make sure to start:
 
-# to install all dependencies to your template
-
+## to install all dependencies to your template
+--codebase
 npm install
 
-# in order to start building or run tailwind type
+## in order to start building or run tailwind type
 
 npm run tw:run
 
-# starting webpack bundler (in case when you use library)
+## starting webpack bundler (in case when you use library)
 
 npm run wp:run
